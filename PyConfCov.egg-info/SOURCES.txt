@@ -1,8 +1,0 @@
-setup.py
-PyConfCov/__init__.py
-PyConfCov/main.py
-PyConfCov.egg-info/PKG-INFO
-PyConfCov.egg-info/SOURCES.txt
-PyConfCov.egg-info/dependency_links.txt
-PyConfCov.egg-info/requires.txt
-PyConfCov.egg-info/top_level.txt

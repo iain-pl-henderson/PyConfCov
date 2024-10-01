@@ -1,0 +1,16 @@
+Simulation type : histograms 
+
+Simulated data: 
+Gaussian data 
+mean = zero
+cov = matern-3/2
+L = 5
+sig2 = 1
+k = 6
+l = 3
+Sampling parameters: 
+n_split = 5000
+n_data_calib = 100000
+n_calib = 200
+n_test = 500
+n_histo = 10000

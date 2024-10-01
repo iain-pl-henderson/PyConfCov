@@ -1,3 +1,5 @@
 numpy
 scipy
 random
+scikit-learn  # import name is sklearn
+PyQt5
