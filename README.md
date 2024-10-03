@@ -1,5 +1,5 @@
 These files can be used to reproduce the numerical experiments described in the preprint "Adaptive inference with random ellipsoids through Conformal Conditional Linear Expectation" (2024) available at https://arxiv.org/abs/2409.18508 .
-This paper describes a conformity score to be used in conformal prediction, that yields adaptive ellipsoidal confidence regions. Their volume is asymptotically smaller that that of the standard norm residual score, for elliptically contoured distributions.
+This paper describes a conformity score to be used in conformal prediction for multivariate regression, that yields adaptive ellipsoidal confidence regions. Their volume is asymptotically smaller that that of the standard norm residual score, for elliptically contoured distributions.
 
 The experiments in the paper correspond to
 1) EXP1 : an assessment of the performances (coverage and volume) of our conformity score on Gaussian and Cauchy data, resulting in the two histograms presented in the paper.
