@@ -4,7 +4,8 @@ This paper describes a conformity score to be used in conformal prediction for m
 The experiments in the paper correspond to
 1) EXP1 : an assessment of the performances (coverage and volume) of our conformity score on Gaussian and Cauchy data, resulting in the two histograms presented in the paper.
 2) EXP2 : a validation of the expectation formulas corresponding to the volume of our region for Gaussian data, (Table 1 in the paper).
-3) EXP3 : an experiment on AR(q) Gaussian processes, whose aim is to identify the optimal number of previous time stamps to use in our conformity score (Table 2 in the paper).
+3) EXP3 : an experiment on AR(q) Gaussian processes, whose aim is to identify the optimal number of previous time stamps to use in our conformity score (Table 2 in the paper).$
+
 To reproduce the experiments, run the script test.py. 
 Be wary that the parameters corresponding to the experiments described in the paper are time-consuming, so different values (smaller n_calib, n_test, n_histo) may be more appropriate for a first time use.
 
