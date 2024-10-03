@@ -20,5 +20,5 @@ The utils.py script file contains routines that generated iid Gaussian and Cauch
 The ellipsoid.py file contains routines that compute Ellipsoid objects (corresponding to our confidence regions), as well as methods that run elementary computations on them.
 
 Feel free to play around with the different parameters of the test.py script!
-If you wish to save the results of your numerical experiments, you will need to specify the path of the folder in which to save your data and figures, using the the pwd_save_data variable (line 23 of test.py). Numerical experiments are uniquely identified thanks to their time-stamp, and are acoompanied with a simu_data.txt file detailing the corresponding parameters.
+If you wish to save the results of your numerical experiments, you will need to specify the path of the folder in which to save your data and figures, using the the pwd_save_data variable (line 23 of test.py). Numerical experiments are uniquely identified thanks to their time-stamp, and are accompanied with a simu_data.txt file detailing the corresponding parameters.
    
